@@ -8,7 +8,7 @@ format:
     toc-position: left
 ---
 
-![](Tripos_sample.JPG)
+![](tripos_sample.JPG)
 
 A nearshore Gulf of Maine water sample full of *Tripos muelleri* collected in May 2023
 
