@@ -25,14 +25,10 @@ A highly unusual algal bloom of the dinoflagellate *Tripos muelleri*, hereafter 
 You must have a GitHub account and be logged in to comment
 
 <!-- Utterances comments -->
-
-```{=html}
 <script src="https://utteranc.es/client.js"
         repo="sea-scope/Tripos"
-        issue-term="pathname"
+        issue-number="1"  <!-- Replace "1" with your actual issue number -->
         theme="github-light"
-        label="comment"
         crossorigin="anonymous"
         async>
 </script>
-```
