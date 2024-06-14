@@ -19,3 +19,20 @@ format:
 A highly unusual algal bloom of the dinoflagellate *Tripos muelleri*, hereafter referred to as *Tripos*, dominated the western Gulf of Maine from April to August of 2023. A network of collaborators throughout the region attempted to coordinate monitoring of the bloom to track its extent and progression, as well as its impacts on fisheries and the ecosystem. This report provides a narrative overview of the bloom event and monitoring response which culminated in a UNH and NERACOOS sponsored seminar and workshop in January 2024. The workshop strived to advance an understanding of the bloom, to evaluate the monitoring response, and recommend improvements for the coastal ocean observation system.
 
 # [Tripos Workshop Report](report.html) <!-- Link to the briefing paper -->
+
+# Let us know what you think!
+
+You must have a GitHub account and be logged in to comment
+
+<!-- Utterances comments -->
+
+```{=html}
+<script src="https://utteranc.es/client.js"
+        repo="sea-scope/Tripos"
+        issue-term="pathname"
+        theme="github-light"
+        label="comment"
+        crossorigin="anonymous"
+        async>
+</script>
+```
