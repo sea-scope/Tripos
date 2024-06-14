@@ -8,11 +8,11 @@ format:
     toc-position: left
 ---
 
-::: {style="text-align: center;"}
-<img src="Tripos_sample.JPG" alt="Tripos_sample" style="width: 50%;"/>
+![](Tripos_sample.JPG)
 
-<p><strong>Caption:</strong> A nearshore Gulf of Maine water sample full of <em>Tripos muelleri</em> collected in May 2023.<br /> <strong>Photo credit:</strong> Joe Vallino / Marine Biological Laboratory</p>
-:::
+A nearshore Gulf of Maine water sample full of *Tripos muelleri* collected in May 2023
+
+Photo credit: Joe Vallino / Marine Biological Laboratory
 
 ## Overview
 
